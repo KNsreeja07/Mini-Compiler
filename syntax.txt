@@ -1,0 +1,50 @@
+variable := expression;
+
+# This is a single-line comment
+
+print expression;
+
+print string;
+
+if expression then statement;
+
+if expression then statement;
+else if expression then statement;
+else statement;
+
+while expression then {
+    statement_list;
+}
+
+for variable : (start, end, step) then statement;
+
+exit;
+
+random(lower, upper);
+
+abs(x);
+
+sqrt(x);
+
+floor(x);
+
+ceil(x);
+
+log(x);
+
+exp(x);
+
+Functions
+PI 
+sin 
+cos 
+tan 
+asin
+acos 
+atan 
+
+operations
+
+Comparisons	 =, !=, >, <, >=, <=
+Logical Operators	and, or, not
+Arithmetic Operators	+, -, *, /, %, ^
